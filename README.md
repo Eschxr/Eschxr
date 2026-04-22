@@ -2,15 +2,15 @@
 
 I'm Sam, currently studying CompSci in the United Kingdom.
 
-My expertise mostly consists of backend software development, I typically work on servers/APIs with Python or Javascript.
+My expertise mostly consists of backend software development, I typically work on servers/APIs with Python or Javascript. However I do tend to learn and work on all sorts of different stuff from time to time such as AI/ML, data pipelines, fullstack web applications, etc.
 
 I do a little bit of game development when I find the spare time.
 
 ---
 ### Tools & Tech
 
-* Python -- Flask, Ollama, Scikit-Learn, PyTorch
-* Javascript -- NodeJS, React, Express
+* Python -- Flask, Ollama, Scikit-Learn, PyTorch, Pandas, Numpy
+* JavaScript/TypeScript -- Node.js, Next.js, React, Express.js
 * Game Development -- Godot, Blender, GDScript
 ---
 ### Goals
@@ -21,8 +21,7 @@ Most recently, I've been diving into quantitative finance, machine learning, and
 
 Here's what I'm currently learning:
 
-* Programming Languages -- C, C++, & Rust
-* Functional Programming -- Haskell & OCaml
+* Programming Languages -- C, C++, Haskell, OCaml
 * Data Processing & Machine Learning with Python
 * Probability and Statistics
 * Financial Theory
